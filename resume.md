@@ -4,7 +4,7 @@ margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
 title: Brendon McCool
-description-meta: 'This is the meta description for the HTML file, and one day the PDF file, for better SEO?'
+description-meta: 'Brendon McCool's Resume - Software Engineer based in Fort Wayne, IN - Hire Me!'
 keywords: 
   - 'php' 
   - 'mysql' 
@@ -33,7 +33,7 @@ author-meta: 'This will show up as <meta name"author"... in HTML meta tags:'
 - Worked directly with HW team to validate battery and charger system design
 - Developing automated test suites with PyTest
 
-**Technologies used:** C, C++, Python, Pytest, Qt, Jenkins, Docker, Grafana
+**Technologies used:** C, C++, Python, Pytest, Qt, Jenkins, Docker, Grafana, ELK
 
 ### Staff Engineer, Delphi Technologies, Contracted via Logikos Inc.
 2015-2016, Kokomo IN, Remote via Fort Wayne, IN
@@ -56,19 +56,19 @@ author-meta: 'This will show up as <meta name"author"... in HTML meta tags:'
 
 ### McCoolDSP
   - platform: C++
-  - timeperiod: "2022"
+  - timeperiod: 2022
   - description: An implementation of the Harmonic Product Spectrum algorithm for pitch detection.  Uses Conan for dependencies and publishing.
   - url: https://github.com/bmccool/McCoolDSP
 
 ### DancingLinks
   - platform: Python
-  - timeperiod: "2020"
+  - timeperiod: 2020
   - description: An implementation of Dancing Links algorithm by Donald Knuth, used to solve sudoku puzzles.
   - url: https://github.com/bmccool/DancingLinks
 
 ### name: SpiritBall
   - platform: C++, ESP32
-  - timeperiod: "2022"
+  - timeperiod: 2022
   - description: Festive decoration based on ESP32-S3 and WS2812B LEDs.  Part of 100 day design challenge.
   - url: https://github.com/bmccool/SpiritBall
 
