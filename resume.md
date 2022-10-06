@@ -4,7 +4,7 @@ margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
 title: Brendon McCool
-description-meta: 'Brendon McCool\'s Resume - Software Engineer based in Fort Wayne, IN - Hire Me!'
+description-meta: 'Brendon McCool - Software Engineer based in Fort Wayne, IN - Hire Me!'
 keywords: 
   - 'php' 
   - 'mysql' 
