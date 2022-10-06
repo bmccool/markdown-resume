@@ -21,7 +21,7 @@ author-meta: 'This will show up as <meta name"author"... in HTML meta tags:'
 ``` linux ```
 ``` artificial intelligence ```
 
-**Programming**: C/C++, Python, Pytorch, Jupyter  
+**Programming**: C, C++, Python, Pytorch, Jupyter  
 **Linux**: Debian, Ubuntu, Proxmox  
 **DevOps**: Ansible, Docker, Kubernetes, Jenkins, Grafana, ELK  
 
