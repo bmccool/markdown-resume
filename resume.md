@@ -1,7 +1,7 @@
 ---
 margin-left: 2cm
 margin-right: 2cm
-margin-top: 0.5cm
+margin-top: 0cm
 margin-bottom: 2cm
 title: Brendon McCool
 description-meta: 'Brendon McCool - Software Engineer based in Fort Wayne, IN - Hire Me!'
