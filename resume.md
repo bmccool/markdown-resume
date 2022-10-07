@@ -27,20 +27,20 @@ author-meta: 'Brendon McCool'
 
 ## Experience
 ### Sr. Staff Engineer, Bose, Contracted via Logikos Inc.
-2017-current, Framingham MA, Remote via Fort Wayne, IN
+- 2017-current, Framingham MA, Remote via Fort Wayne, IN
 - Developed UI/Product features including LED, Power States, and Call Handling in C/C++
 - Worked directly with HW team to validate battery and charger system design
 - Developing automated test suites with PyTest
 - **Technologies used:** C, C++, Python, Pytest, Qt, Jenkins, Docker, Grafana, ELK, Conan
 
 ### Staff Engineer, Delphi Technologies, Contracted via Logikos Inc.
-2015-2016, Kokomo IN, Remote via Fort Wayne, IN
+- 2015-2016, Kokomo IN, Remote via Fort Wayne, IN
 - Developed front end for vehicle infotainment system to interface with Eye Glance technology for CES.
 - Worked with UI team to integrate custom assets and controls in QML.
 - **Technologies used:** C++, QML, Qt
 
 ### Staff Engineer, Roche Diagnostics, Contracted via Logikos Inc.
-2012-2014, Indianapolis IN, Remote via Fort Wayne, IN
+- 2012-2014, Indianapolis IN, Remote via Fort Wayne, IN
 - Created in system performance benchmarking tool for personal health device.
 - Created test cases and designed tests suites for custom automated test framework.
 - **Technologies used:** C, Micrium, Rational Test RealTime 
