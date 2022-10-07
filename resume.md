@@ -23,7 +23,7 @@ author-meta: 'Brendon McCool'
 
 **Programming**: C, C++, Python, Pytorch, Jupyter  
 **Linux**: Debian, Ubuntu, Proxmox  
-**DevOps**: Ansible, Docker, Kubernetes, Jenkins, Grafana, ELK  
+**DevOps**: Ansible, Docker, Kubernetes, Jenkins, Grafana, ELK, Conan  
 
 ## Experience
 ### Sr. Staff Engineer, Bose, Contracted via Logikos Inc.
@@ -32,7 +32,7 @@ author-meta: 'Brendon McCool'
 - Developed UI/Product features including LED, Power States, and Call Handling in C/C++
 - Worked directly with HW team to validate battery and charger system design
 - Developing automated test suites with PyTest
-- **Technologies used:** C, C++, Python, Pytest, Qt, Jenkins, Docker, Grafana, ELK
+- **Technologies used:** C, C++, Python, Pytest, Qt, Jenkins, Docker, Grafana, ELK, Conan
 
 ### Staff Engineer, Delphi Technologies, Contracted via Logikos Inc.
 2015-2016, Kokomo IN, Remote via Fort Wayne, IN
@@ -48,16 +48,13 @@ author-meta: 'Brendon McCool'
 - Created test cases and designed tests suites for custom automated test framework.
 - **Technologies used:** C, Micrium, Rational Test RealTime 
 
-## Projects **[github.com/bmccool](https://github.com/bmccool)**
+## Projects
 
-#### McCoolDSP
-  - An implementation of the Harmonic Product Spectrum algorithm for pitch detection.  Uses Conan for dependencies and publishing. C++, https://github.com/bmccool/McCoolDSP
+- McCoolDSP: An implementation of the Harmonic Product Spectrum algorithm for pitch detection.  Uses Conan for dependencies and publishing. C++, https://github.com/bmccool/McCoolDSP
 
-#### DancingLinks
-  - An implementation of Dancing Links algorithm by Donald Knuth, used to solve sudoku puzzles.  Python, https://github.com/bmccool/DancingLinks
+- DancingLinks: An implementation of Dancing Links algorithm by Donald Knuth, used to solve sudoku puzzles.  Python, https://github.com/bmccool/DancingLinks
 
-#### SpiritBall
-  - Festive decoration based on ESP32-S3 and WS2812B LEDs.  Part of 100 day design challenge.  C++, ESP32, https://github.com/bmccool/SpiritBall
+- SpiritBall: Festive decoration based on ESP32-S3 and WS2812B LEDs.  Part of 100 day design challenge.  C++, ESP32, https://github.com/bmccool/SpiritBall
 
 ## Education 
 
