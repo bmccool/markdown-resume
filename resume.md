@@ -51,26 +51,16 @@ author-meta: 'Brendon McCool'
 
 **Technologies used:** C, Micrium, Rational Test RealTime 
 
-## Projects
-**[github.com/bmccool](https://github.com/bmccool)**
+## Projects **[github.com/bmccool](https://github.com/bmccool)**
 
-### McCoolDSP
-  - platform: C++
-  - timeperiod: 2022
-  - description: An implementation of the Harmonic Product Spectrum algorithm for pitch detection.  Uses Conan for dependencies and publishing.
-  - url: https://github.com/bmccool/McCoolDSP
+#### McCoolDSP
+  - An implementation of the Harmonic Product Spectrum algorithm for pitch detection.  Uses Conan for dependencies and publishing. C++, https://github.com/bmccool/McCoolDSP
 
-### DancingLinks
-  - platform: Python
-  - timeperiod: 2020
-  - description: An implementation of Dancing Links algorithm by Donald Knuth, used to solve sudoku puzzles.
-  - url: https://github.com/bmccool/DancingLinks
+#### DancingLinks
+  - An implementation of Dancing Links algorithm by Donald Knuth, used to solve sudoku puzzles.  Python, https://github.com/bmccool/DancingLinks
 
-### name: SpiritBall
-  - platform: C++, ESP32
-  - timeperiod: 2022
-  - description: Festive decoration based on ESP32-S3 and WS2812B LEDs.  Part of 100 day design challenge.
-  - url: https://github.com/bmccool/SpiritBall
+#### SpiritBall
+  - Festive decoration based on ESP32-S3 and WS2812B LEDs.  Part of 100 day design challenge.  C++, ESP32, https://github.com/bmccool/SpiritBall
 
 ## Education 
 
