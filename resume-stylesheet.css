@@ -446,7 +446,7 @@ table {
 
 html,
 body {
-    margin: auto;
+    margin: 0;
     padding-right: 1em;
     padding-left: 1em;
     max-width: 64em;

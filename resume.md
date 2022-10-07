@@ -1,7 +1,7 @@
 ---
 margin-left: 2cm
 margin-right: 2cm
-margin-top: 0cm
+margin-top: 1cm
 margin-bottom: 2cm
 title: Brendon McCool
 description-meta: 'Brendon McCool - Software Engineer based in Fort Wayne, IN - Hire Me!'
@@ -12,7 +12,7 @@ keywords:
 author-meta: 'Brendon McCool'
 ---
 ###### [[github.com/bmccool](https://github.com/bmccool)] . [brendonmccool@gmail.com] . [ (574)210-5892 ]
-### Hi, my name is Brendon McCool.  I'm a Software Engineer with over 10 years of experience in the field.  I focus on embedded systems and C/C++, but I love tackling new technologies too, from deep learning to modern orchestrated build systems.  
+#### Hi, my name is Brendon McCool.  I'm a Software Engineer with over 10 years of experience in the field.  I focus on embedded systems and C/C++, but I love tackling new technologies too, from deep learning to modern orchestrated build systems.  
 
 ## Skills
 ``` programming```
