@@ -30,6 +30,7 @@ author-meta: 'Brendon McCool'
 2017-current, Framingham MA, Remote via Fort Wayne, IN
 
 - Developed UI/Product features including LED, Power States, and Call Handling in C/C++
+- Developed enhancements for build system based in conan with custom python tooling
 - Worked directly with HW team to validate battery and charger system design
 - Developing automated test suites with PyTest
 - **Technologies used:** C, C++, Python, Pytest, Qt, Jenkins, Docker, Grafana, ELK, Conan
