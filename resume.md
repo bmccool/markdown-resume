@@ -26,7 +26,7 @@ author-meta: 'Brendon McCool'
 **DevOps**: Ansible, Docker, Kubernetes, Jenkins, Grafana, ELK, Conan  
 
 ## Experience
-### Sr. Staff Engineer, Bose, Contracted via Logikos Inc.
+### Staff Engineer, Bose, Contracted via Logikos Inc.
 2017-current, Framingham MA, Remote via Fort Wayne, IN
 
 - Developed UI/Product features including LED, Power States, and Call Handling in C/C++
