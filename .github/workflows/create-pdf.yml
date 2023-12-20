@@ -7,6 +7,7 @@ permissions:
   contents: read
   pages: write
   id-token: write
+  actions: read # https://github.com/actions/deploy-pages/pull/283/files#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5R33
 
 # Allow one concurrent deployment
 concurrency:
