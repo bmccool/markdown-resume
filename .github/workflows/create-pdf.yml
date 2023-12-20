@@ -39,12 +39,12 @@ jobs:
 
       - name: "Convert HTML to PDF "
         run: "wkhtmltopdf --enable-local-file-access output/index.html output/${{github.actor}}-resume.pdf"
-      # run: |
-      #     /usr/bin/pandoc -standalone --output=output/resume.pdf --css=resume-stylesheet.css --from=markdown --to=pdf --pdf-engine=/usr/bin/wkhtmltopdf resume.md
+
       - uses: actions/upload-artifact@master
         with: # basically this will put resume.md, resume.html, resume.pdf and resume-stylesheet.css in a zip file. 
-          name: ${{ github.actor }}'s Resume
+          name: "${{ github.actor }}'s Resume"
           path: output
+          
 
   deploy:
     runs-on: ubuntu-latest
@@ -54,13 +54,21 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      # Download the artifact from the build job
+      - uses: actions/download-artifact@master
+        with:
+          name: "${{ github.actor }}'s Resume"
+          path: output
+      # Setup github pages
       - name: Setup Pages
         uses: actions/configure-pages@v3
+      # Upload the artifact #TODO again?
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
           # Upload entire repository
           path: output
+      # Deploy to github pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
