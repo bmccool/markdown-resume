@@ -65,11 +65,11 @@ jobs:
         uses: actions/configure-pages@v4
       # Upload the artifact #TODO again?
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
           path: output
       # Deploy to github pages
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v3
+        uses: actions/deploy-pages@v4
