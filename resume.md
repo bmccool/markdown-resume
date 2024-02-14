@@ -33,6 +33,7 @@ author-meta: 'Brendon McCool'
 - Developed enhancements for build system based in conan with custom python tooling
 - Worked directly with HW team to validate battery and charger system design
 - Developed automation tools in python to identify and track, and report CI/CD errors
+- Developed and deployed containerized system monitoring applications with python and docker
 - **Technologies used:** C, C++, Python, Pytest, Qt, Jenkins, Docker, Grafana, ELK, Conan
 
 ### Staff Engineer, Delphi Technologies, Contracted via Logikos Inc.
