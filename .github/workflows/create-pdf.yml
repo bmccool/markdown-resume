@@ -29,10 +29,10 @@ jobs:
       # Downloading the binaries directly, because they are newer and work better, than the ones that come with Ubuntu latest.
       - name: "Install pandoc and wkhtmltopdf"
         run: |
-          wget https://github.com/jgm/pandoc/releases/download/2.14.2/pandoc-2.14.2-1-amd64.deb
-          wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox_0.12.6-1.bionic_amd64.deb
-          sudo apt install ./pandoc-2.14.2-1-amd64.deb
-          sudo apt install ./wkhtmltox_0.12.6-1.bionic_amd64.deb
+          wget https://github.com/jgm/pandoc/releases/download/3.6.4/pandoc-3.6.4-1-amd64.deb
+          wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6.1-2/wkhtmltox_0.12.6.1-2.jammy_amd64.deb
+          sudo apt install ./pandoc-3.6.4-1-amd64.deb
+          sudo apt install ./wkhtmltox_0.12.6.1-2.jammy_amd64.deb
 
       - name: "Convert MD to HTML"
         run: |
