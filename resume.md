@@ -48,8 +48,8 @@ author-meta: 'Brendon McCool'
 - Created test cases and designed tests suites for custom automated test framework.  
 - **Technologies used:** C, Micrium, Rational Test RealTime  
 
-### Purdue University | West Lafayette, IN | 2008-2012
-- Bachelor of Science in Electrical Engineering, Minor in Mathematics  
+### Electrical Engineering BSEE | Mathematics Minor | Purdue University
+- 2008-2012, West Lafayette IN
 - Member of Eta Kappa Nu international honor society for IEEE  
 
 ## Projects
