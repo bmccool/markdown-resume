@@ -22,7 +22,6 @@ author-meta: 'Brendon McCool'
 ## Experience
 ### Staff Engineer |  Logikos Inc. | Inventory Tracking & Fleet Mangement System
 2025, Fort Wayne, IN
-
 - Migrated discrete servers and services to cloud-based microservice architecture
 - Designed and developed new services including database pruning, video processing, error detection, and alerting
 - Built custom tooling for local developers to manage and review site videos and coorelated database events
@@ -30,7 +29,6 @@ author-meta: 'Brendon McCool'
 
 ### Staff Engineer | Bose, via Logikos Inc. | Portable & Wearable Audio Products
 2017-2024, Framingham MA, Remote via Fort Wayne, IN
-
 - Developed UI/Product features for portable audio products including LED, Power States, and Call Handling in C/C++
 - Developed enhancements for build system based in conan with custom python tooling
 - Worked directly with HW team to validate battery and charger system design
@@ -40,14 +38,12 @@ author-meta: 'Brendon McCool'
 
 ### Staff Engineer |  Delphi Technologies, via Logikos Inc. | Vehicle Infotainment System
 2015-2016, Kokomo IN, Remote via Fort Wayne, IN
-
 - Developed front end for infotainment system to interface with Eye Glance technology for CES.
 - Worked with UI team to integrate custom assets and controls in QML.
 - **Technologies used:** C++, QML, Qt
 
 ### Staff Engineer | Roche Diagnostics, via Logikos Inc. | Smart Glucose Meters
 2012-2014, Indianapolis IN, Remote via Fort Wayne, IN
-
 - Created in system performance benchmarking tool for personal health device.
 - Created test cases and designed tests suites for custom automated test framework.
 - **Technologies used:** C, Micrium, Rational Test RealTime 
@@ -58,8 +54,6 @@ author-meta: 'Brendon McCool'
 - **SpiritBall**: Festive decoration based on ESP32-S3 and WS2812B LEDs.  Part of 100 day design challenge.  C++, ESP32, [https://github.com/bmccool/SpiritBall](https://github.com/bmccool/SpiritBall)
 
 ## Education 
-### Purdue University - West Lafayette, IN
-- 2008-2012
-- Bachelor of Science in Electrical Engineering
-- Minor in Mathematics
+### Purdue University | West Lafayette, IN | 2008-2012
+- Bachelor of Science in Electrical Engineering, Minor in Mathematics
 - Member of Eta Kappa Nu international honor society for IEEE
