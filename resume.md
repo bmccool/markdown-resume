@@ -22,7 +22,9 @@ author-meta: 'Brendon McCool'
 ``` artificial intelligence ```
 
 **Programming**: C, C++, Python, Pytorch, Jupyter
+
 **Linux**: Debian, Ubuntu, Proxmox
+
 **DevOps**: Ansible, Docker, Kubernetes, Jenkins, Grafana, ELK, Conan, AWS 
 
 ## Experience
