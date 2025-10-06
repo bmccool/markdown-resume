@@ -21,11 +21,9 @@ author-meta: 'Brendon McCool'
 ``` linux ```
 ``` artificial intelligence ```
 
-**Programming**: C, C++, Python, Pytorch, Jupyter
-
-**Linux**: Debian, Ubuntu, Proxmox
-
-**DevOps**: Ansible, Docker, Kubernetes, Jenkins, Grafana, ELK, Conan, AWS 
+**Programming**: C, C++, Python, Pytorch, Jupyter  
+**Linux**: Debian, Ubuntu, Proxmox  
+**DevOps**: Ansible, Docker, Kubernetes, Jenkins, Grafana, ELK, Conan, AWS  
 
 ## Experience
 ### Staff Engineer |  Logikos Inc. | Inventory Tracking & Fleet Mangement System
