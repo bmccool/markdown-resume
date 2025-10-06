@@ -34,7 +34,7 @@ author-meta: 'Brendon McCool'
 - Built custom tooling for local developers to manage and review site videos and coorelated database events
 - **Technologies used:** AWS, Docker, Python, TypeScript, Grafana, PostgreSQL
 
-### Staff Engineer | Bose, Contracted via Logikos Inc. | Portable & Wearable Audio Products
+### Staff Engineer | Bose, via Logikos Inc. | Portable & Wearable Audio Products
 2017-2024, Framingham MA, Remote via Fort Wayne, IN
 
 - Developed UI/Product features for portable audio products including LED, Power States, and Call Handling in C/C++
@@ -44,14 +44,14 @@ author-meta: 'Brendon McCool'
 - Developed and deployed containerized system monitoring applications with python and docker
 - **Technologies used:** C, C++, Python, Pytest, Qt, Jenkins, Docker, Grafana, ELK, Conan
 
-### Staff Engineer |  Delphi Technologies, Contracted via Logikos Inc. | Vehicle Infotainment System
+### Staff Engineer |  Delphi Technologies, via Logikos Inc. | Vehicle Infotainment System
 2015-2016, Kokomo IN, Remote via Fort Wayne, IN
 
 - Developed front end for infotainment system to interface with Eye Glance technology for CES.
 - Worked with UI team to integrate custom assets and controls in QML.
 - **Technologies used:** C++, QML, Qt
 
-### Staff Engineer | Roche Diagnostics, Contracted via Logikos Inc. | Smart Glucose Meters
+### Staff Engineer | Roche Diagnostics, via Logikos Inc. | Smart Glucose Meters
 2012-2014, Indianapolis IN, Remote via Fort Wayne, IN
 
 - Created in system performance benchmarking tool for personal health device.
