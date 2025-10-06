@@ -32,7 +32,7 @@ author-meta: 'Brendon McCool'
 - Migrated discrete servers and services to cloud-based microservice architecture
 - Designed and developed new services including database pruning, video processing, error detection, and alerting
 - Built custom tooling for local developers to manage and review site videos and coorelated database events
-- **Technologies used:** AWS, Docker, Python, Typescript, Grafana, PostgreSQL
+- **Technologies used:** AWS, Docker, Python, TypeScript, Grafana, PostgreSQL
 
 ### Staff Engineer | Bose, Contracted via Logikos Inc. | Portable & Wearable Audio Products
 2017-2024, Framingham MA, Remote via Fort Wayne, IN
