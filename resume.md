@@ -15,12 +15,6 @@ author-meta: 'Brendon McCool'
 #### Hi, my name is Brendon McCool.  I'm a Software Engineer with over 13 years of experience in the field.  I focus on embedded systems and C/C++, but I love tackling new technologies too, from deep learning to modern orchestrated build systems.  
 
 ## Skills
-``` programming```
-``` devops ```
-``` containers ```
-``` linux ```
-``` artificial intelligence ```
-
 **Programming**: C, C++, Python, Pytorch, Jupyter  
 **Linux**: Debian, Ubuntu, Proxmox  
 **DevOps**: Ansible, Docker, Kubernetes, Jenkins, Grafana, ELK, Conan, AWS  
