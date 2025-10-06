@@ -12,7 +12,6 @@ keywords:
 author-meta: 'Brendon McCool'
 ---
 ###### [[github.com/bmccool](https://github.com/bmccool)] . [brendonmccool@gmail.com] . [ (574)210-5892 ]
-#### Hi, my name is Brendon McCool.  I'm a Software Engineer with over 13 years of experience in the field.  I focus on embedded systems and C/C++, but I love tackling new technologies too, from deep learning to modern orchestrated build systems.  
 
 ## Skills
 **Programming**: C, C++, Python, Pytorch, Jupyter  
