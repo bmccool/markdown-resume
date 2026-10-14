@@ -25,7 +25,7 @@ author-meta: 'Brendon McCool'
 - Designed, deployed, maintained scalable infrastructure for hardware-in-the-loop testing
 - Adapt design and integrate custom packet tracing feature for network observability in satellite to ground comms
 - Developed tooling to assist dev teams with lab HW checkout, inventory & fleet management, network & device health
-- ** Technologies used:** AWS, Docker, C++, Python, Ansible, KVM/QEMU, AI 
+- **Technologies used:** AWS, Docker, C++, Python, Ansible, KVM/QEMU, AI 
 
 ### Staff Engineer |  Logikos Inc. | Inventory Tracking & Fleet Mangement System
 - 2025, Fort Wayne, IN  
