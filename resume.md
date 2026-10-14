@@ -16,20 +16,28 @@ author-meta: 'Brendon McCool'
 ## Skills
 **Programming**: C, C++, Python, Pytorch, Jupyter  
 **Linux**: Debian, Ubuntu, Proxmox  
-**DevOps**: Ansible, Docker, Kubernetes, Jenkins, Grafana, ELK, Conan, AWS  
+**DevOps**: AWS, Ansible, Docker, Kubernetes, Jenkins, Grafana, ELK, Conan
 
 ## Experience
+### SDE | Amazon via Carlton National Resources | AMZ Leo for Government
+- 2025-2026, Fort Wayne, IN
+- Developed custom edge router for interfacing with LEO satellite constellation
+- Designed, deployed, maintained scalable infrastructure for hardware-in-the-loop testing
+- Adapt design and integrate custom packet tracing feature for network observability in satellite to ground comms
+- Developed tooling to assist dev teams with lab HW checkout, inventory & fleet management, network & device health
+- ** Technologies used:** AWS, Docker, C++, Python, Ansible, KVM/QEMU, AI 
+
 ### Staff Engineer |  Logikos Inc. | Inventory Tracking & Fleet Mangement System
 - 2025, Fort Wayne, IN  
 - Migrated discrete servers and services to cloud-based microservice architecture  
 - Designed and developed new services including database pruning, video processing, error detection, and alerting  
-- Built custom tooling for local developers to manage and review site videos and coorelated database events  
+- Built custom tooling for local developers to manage and review site videos and correlated database events  
 - **Technologies used:** AWS, Docker, Python, TypeScript, Grafana, PostgreSQL  
 
 ### Staff Engineer | Bose, via Logikos Inc. | Portable & Wearable Audio Products
 - 2017-2024, Framingham MA, Remote via Fort Wayne, IN  
 - Developed UI/Product features for portable audio products including LED, Power States, and Call Handling in C/C++  
-- Developed enhancements for build system based in conan with custom python tooling  
+- Developed enhancements for build system based in Conan with custom python tooling  
 - Worked directly with HW team to validate battery and charger system design  
 - Developed automation tools in python to identify, track, and report CI/CD errors  
 - Developed and deployed containerized system monitoring applications with python and docker  
