@@ -59,7 +59,3 @@ author-meta: 'Brendon McCool'
 - 2008-2012, West Lafayette IN
 - Member of Eta Kappa Nu international honor society for IEEE  
 
-## Projects
-- **McCoolDSP**: An implementation of the Harmonic Product Spectrum algorithm for pitch detection.  Uses Conan for dependencies and publishing. C++, [https://github.com/bmccool/McCoolDSP](https://github.com/bmccool/McCoolDSP)
-- **DancingLinks**: An implementation of Dancing Links algorithm by Donald Knuth, used to solve sudoku puzzles.  Python, [https://github.com/bmccool/DancingLinks](https://github.com/bmccool/DancingLinks)
-- **SpiritBall**: Festive decoration based on ESP32-S3 and WS2812B LEDs.  Part of 100 day design challenge.  C++, ESP32, [https://github.com/bmccool/SpiritBall](https://github.com/bmccool/SpiritBall)
